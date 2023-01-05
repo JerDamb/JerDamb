@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerdamb&label=Profile%20views&color=0e75b6&style=flat" alt="jerdamb" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and React native soon**
+- 🌱 I’m currently learning **ReactJS and React native soon** 
 
 - 👨‍💻 All of my projects are available at [https://dambjer-website.herokuapp.com/](https://dambjer-website.herokuapp.com/)
 
